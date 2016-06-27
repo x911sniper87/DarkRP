@@ -225,3 +225,24 @@ DarkRP.createCategory{
     canSee = fp{fn.Id, true},
     sortOrder = 255,
 }
+
+AddCustomShipment("Python", "models/weapons/w_colt_python.mdl", "m9k_coltpython", 2500, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Python Single", "models/weapons/w_colt_python.mdl", "m9k_coltpython", 500, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Colt 1911", "models/weapons/s_dmgf_co1911.mdl", "m9k_colt1911", 1200, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Colt 1911 Single", "models/weapons/s_dmgf_co1911.mdl", "m9k_colt1911", 150, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("HK 45C", "models/weapons/w_hk45c.mdl", "m9k_hk45", 1500, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("HK 45C Single", "models/weapons/w_hk45c.mdl", "m9k_hk45", 200, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Luger", "models/weapons/w_luger_p08.mdl", "m9k_luger", 1200, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Luger Single", "models/weapons/w_luger_p08.mdl", "m9k_luger", 100, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Raging Bull", "models/weapons/w_hk45c.mdl", "m9k_ragingbull", 3000, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Raging Bull Single", "models/weapons/w_hk45c.mdl", "m9k_ragingbull", 600, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("S&W 500", "models/weapons/w_sw_model_500.mdl", "m9k_model500", 2750, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("S&W 500 Single", "models/weapons/w_sw_model_500.mdl", "m9k_model500", 550, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("M29 Satan", "models/weapons/w_m29_satan.mdl", "m9k_m29satan", 3000, 10, false, 0, false, {TEAM_LIGHT})
+AddCustomShipment("M29 Satan Single", "models/weapons/w_m29_satan.mdl", "m9k_m29satan", 750, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Baretta", "models/weapons/w_beretta_m92.mdl", "m9k_m92baretta", 1400, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("Baretta Single", "models/weapons/w_beretta_m92.mdl", "m9k_m92baretta", 200, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("S&W Model 3 Russian", "models/weapons/w_model_3_rus.mdl", "m9k_model3russian", 3000, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("S&W Model 3 Russian Single", "models/weapons/w_model_3_rus.mdl", "m9k_model3russian", 400, 1, false, 0, false, {TEAM_GUN})
+AddCustomShipment("S&W 627", "models/weapons/w_sw_model_627.mdl", "m9k_model627", 3000, 10, false, 0, false, {TEAM_GUN})
+AddCustomShipment("S&W 627 Single", "models/weapons/w_sw_model_627.mdl", "m9k_model627", 425, 1, false, 0, false, {TEAM_GUN})
